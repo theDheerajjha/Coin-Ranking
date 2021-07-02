@@ -1,7 +1,7 @@
 var baseUrl = "https://api.coinranking.com/v2/coins";
 var proxyUrl = "https://cors-anywhere.herokuapp.com/";
 //API key is not Secure copyright : Dheeraj jh
-var apiKey = "";
+var apiKey = "coinranking4e6ca79dc551affaa82e28f5862c1f4b6203e2120e9d045";
 
 var apiUrl = `${proxyUrl}${baseUrl}`;
 console.log(apiUrl);
